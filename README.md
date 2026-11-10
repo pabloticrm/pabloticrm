@@ -1,5 +1,40 @@
-### *Hola a todos 👋*
+# ¡Hola! Soy Pablo Romero 👋
 
-Actualmente me encuentro estudiando el primer curso de DAW (Desarrollo de Aplicaciones Web)
+💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Málaga, España.  
+🚀 Apasionado por el desarrollo backend, las bases de datos y el entorno Linux.
 
-_Lenguajes que estoy aprendiendo:_ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6O09wOHLtqawZL_xpV0mLMkGqKc8xKxRkruI4s4p9CCsFtmyFXO5bZbFN&s=10
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Lenguajes y Bases de Datos:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Entorno y Editores:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📚 Actualmente aprendiendo
+- Programación orientada a objetos con **Java**.
+- Diseño, gestión y consultas en **MySQL**.
+- Maquetación y diseño web con **HTML5 y CSS3**.
+
+---
+
+### 📊 Estadísticas de GitHub
+`pabloticrm`
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Contacto
+- 💼 LinkedIn: [pabloticrm](https://linkedin.com/in/TU_USUARIO)
+- 📧 Email: tuemail@ejemplo.com
