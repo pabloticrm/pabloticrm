@@ -27,7 +27,7 @@
 ---
 
 ### 📊 Estadísticas de GitHub
-`pabloticrm`
+`pabloticrm`(https://github-readme-stats.vercel.app/api?username=pabloticrm&show_icons=true&theme=tokyonight)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
