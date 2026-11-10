@@ -36,5 +36,5 @@
 ---
 
 ### 📫 Contacto
-- 💼 LinkedIn: [pabloticrm](https://linkedin.com/in/TU_USUARIO)
-- 📧 Email: tuemail@ejemplo.com
+- 💼 LinkedIn: [Pablo Romero]([https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/pablo-romero-a37068374/))
+- 📧 Email: promeromurillo@gmail.com
